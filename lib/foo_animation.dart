@@ -15,7 +15,7 @@ class _fooanimationState extends State<fooanimation> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: Text("foo animtion"),
+          title: Text("foo animtion-by bishal das"),
         ),
         body: Center(
           child: Column(
